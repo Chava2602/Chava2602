@@ -14,7 +14,6 @@ Chava2602 = {
 - 🇲🇽 Mexican
 - 💻 Student of Computer Engineer in [UdeG CUCEI](http://www.cucei.udg.mx)
 - 🧐 Member of [Club de Programación CUCEI](https://programacion-cucei.club)
-- 📻 Clone Hero charter in [Plastic Hero](https://discord.gg/v5tNjSC)
 - 🎸 Rocksmith 2014 charter [CustomsForge Profile](https://ignition4.customsforge.com/profile/Chava2602)
 - 🐓 Fan of Buckethead
 - 🤖 Arduino Hobbyist
