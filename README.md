@@ -26,7 +26,7 @@ Chava2602 = {
 - 📺 (Spanish) [Twitch Channel](https://www.twitch.tv/chava_2602)
 
 ## Certifications
-- ☁ [AZ-900: Microsoft Azure Fundamentals](http://verify.certiport.com/) (ID: P7zs-uSe3) by [Microsoft](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900)
+- ☁ [AZ-900: Microsoft Azure Fundamentals](http://verify.certiport.com/) (ID: P7z-uSe3) by [Microsoft](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900)
 
 ## Contact
 <p align="center">
