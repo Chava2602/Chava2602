@@ -26,6 +26,8 @@ Chava2602 = {
 
 ## Certifications
 - ☁ [AZ-900: Microsoft Azure Fundamentals](http://verify.certiport.com/) (ID: P7zS-uSe3) by [Microsoft](https://docs.microsoft.com/en-us/learn/certifications/exams/az-900)
+- 📋 [Technical Support Fundamentals](https://coursera.org/share/e91f3f8e49827e901dedc5b7784351da) by [Google Career Certificates](https://www.coursera.org/learn/technical-support-fundamentals#instructors)
+- 📶 [The Bits and Bytes of Computer Networking](https://coursera.org/share/f13faf8eb7dc079f7a51c31b8c5a5fec) by [Google Career Certificates](https://www.coursera.org/learn/technical-support-fundamentals#instructors)
 
 ## Contact
 <p align="center">
